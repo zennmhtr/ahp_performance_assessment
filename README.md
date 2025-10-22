@@ -101,7 +101,7 @@ Follow the steps below to clone and run the project in your local environment:
 <img src="https://github.com/user-attachments/assets/b7638759-c99b-45e2-9d6a-c5075a414879" alt="Halaman Penilaian Alternatif" width="" />
 <br><br>
 
-- ### **Criteria Sub Page**
+- ### **Final Assesment Result Page**
 
-<img src="https://github.com/user-attachments/assets/7c7b5499-6b91-4e95-88a6-f0aa74eb888d" alt="Halaman Sub Kriteria" width="" />
+<img src="https://github.com/user-attachments/assets/0be2136e-62d7-462a-9cba-67e43c769209" alt="Halaman Hasil Akhir Penilaian" width="" />
 <br><br>
