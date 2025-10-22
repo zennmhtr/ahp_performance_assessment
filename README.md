@@ -21,7 +21,7 @@ Follow the steps below to clone and run the project in your local environment:
 1. Clone repository:
 
     ```bash
-    git clone https://github.com/Akbarwp/Laravel-SPK-AHP.git
+    (https://github.com/zennmhtr/ahp_performance_assessment.git)
     ```
 
 2. Install dependencies use Composer and NPM:
