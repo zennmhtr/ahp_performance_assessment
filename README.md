@@ -14,7 +14,7 @@ AHP Performance Assesment is a website designed to provide a decision support sy
 
 - Main features available in this application:
   - Implementation AHP method
-  - Import data --> example [Kriteria](https://github.com/user-attachments/files/19679422/Import.Kriteria.xlsx), [Kategori](https://github.com/user-attachments/files/19679419/Import.Kategori.xlsx)
+  - Import data --> example [Alternatif](https://github.com/user-attachments/files/23052105/Import.Alternatif.xlsx), [Kategori](https://github.com/user-attachments/files/19679419/Import.Kategori.xlsx)
 
 ## Installation
 Follow the steps below to clone and run the project in your local environment:
