@@ -1,7 +1,7 @@
-## Laravel SPK AHP
+## AHP Performance Assesment
 AHP Performance Assesment is a website designed to provide a decision support system using the AHP (Analytic Hierarchy Process) method. This site enables users to analyze various decision alternatives based on defined criteria, assisting in determining the best choice in a systematic and transparent way. With a user-friendly interface, users can easily input data and obtain in-depth analysis results to support more accurate decision-making.
 
-## Tech Stack
+## Framework & Languange
 - **Laravel 9** --> **Laravel 12**
 - **Laravel Breeze**
 - **MySQL Database**
@@ -26,10 +26,10 @@ Follow the steps below to clone and run the project in your local environment:
 
 2. Install dependencies use Composer and NPM:
     ```bash
-    composer install
-    composer update
-    npm install
-    npm update
+    - composer install
+    - composer update
+    - npm install
+    - npm update
     ```
 
 3. Copy file `.env.example` to `.env`:
