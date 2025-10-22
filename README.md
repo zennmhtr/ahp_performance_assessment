@@ -86,9 +86,9 @@ Follow the steps below to clone and run the project in your local environment:
 <img src="https://github.com/user-attachments/assets/05d065bd-eb8b-43cc-b743-91bccb7b0b3a" alt="Halaman Kriteria" width="" />
 <br><br>
 
-- ### **Assesment Page**
+- ### **AHP Method Page**
 
-<img src="https://github.com/user-attachments/assets/0c412a06-1c8d-42be-885f-21a9cb0e1acc" alt="Halaman Penilaian" width="" />
+<img src="https://github.com/user-attachments/assets/e546f0eb-2c9b-4dae-a2df-2d1f342bc020" alt="Halaman Metode AHP" width="" />
 <br><br>
 
 - ### **Result Page**
