@@ -4,6 +4,7 @@ AHP Performance Assesment is a website designed to provide a decision support sy
 ## Framework & Languange
 - **Laravel 9** --> **Laravel 12**
 - **Laravel Breeze**
+- **PHP 8.2**
 - **MySQL Database**
 - **TailwindCSS**
 - **daisyUI**
