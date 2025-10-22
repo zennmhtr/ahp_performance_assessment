@@ -21,14 +21,15 @@ Follow the steps below to clone and run the project in your local environment:
 1. Clone repository:
 
     ```bash
-    (https://github.com/zennmhtr/ahp_performance_assessment.git)
+    https://github.com/zennmhtr/ahp_performance_assessment.git
     ```
 
 2. Install dependencies use Composer and NPM:
-
     ```bash
     composer install
+    composer update
     npm install
+    npm update
     ```
 
 3. Copy file `.env.example` to `.env`:
@@ -49,7 +50,7 @@ Follow the steps below to clone and run the project in your local environment:
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=laravel_ahp
+    DB_DATABASE=spk-atl
     DB_USERNAME=root
     DB_PASSWORD=
     ```
@@ -74,25 +75,24 @@ Follow the steps below to clone and run the project in your local environment:
     ```
 
 ## Screenshot
-
 - ### **Dashboard**
 
 <img src="https://github.com/user-attachments/assets/cce7a649-59d8-47b5-ba94-70e0aa98b4ca" alt="Halaman Dashboard" width="" />
 <br><br>
 
-- ### **Criteria page**
+- ### **Criteria Page**
 
 <img src="https://github.com/user-attachments/assets/c52dceb4-7c4c-4bad-8d3c-093e52013656" alt="Halaman Kriteria" width="" />
 <br><br>
 <img src="https://github.com/user-attachments/assets/54bbaf8f-ed9c-4ffa-9bf7-2bd2dba694ef" alt="Halaman Kriteria" width="" />
 <br><br>
 
-- ### **Penilaian page**
+- ### **Penilaian Page**
 
 <img src="https://github.com/user-attachments/assets/0c412a06-1c8d-42be-885f-21a9cb0e1acc" alt="Halaman Penilaian" width="" />
 <br><br>
 
-- ### **Result page**
+- ### **Result Page**
 
 <img src="https://github.com/user-attachments/assets/db40f871-861c-4a40-bf23-f1cd226b2093" alt="Halaman Hasil Akhir" width="" />
 <br><br>
