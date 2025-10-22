@@ -78,7 +78,7 @@ Follow the steps below to clone and run the project in your local environment:
 ## Screenshot
 - ### **Dashboard**
 
-<img src="https://github.com/user-attachments/assets/cce7a649-59d8-47b5-ba94-70e0aa98b4ca" alt="Halaman Dashboard" width="" />
+<img src="https://github.com/user-attachments/assets/adeaedef-a977-4309-a542-510e4c2dcbab" alt="Halaman Dashboard" width="" />
 <br><br>
 
 - ### **Criteria Page**
