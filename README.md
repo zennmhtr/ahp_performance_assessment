@@ -83,12 +83,10 @@ Follow the steps below to clone and run the project in your local environment:
 
 - ### **Criteria Page**
 
-<img src="https://github.com/user-attachments/assets/c52dceb4-7c4c-4bad-8d3c-093e52013656" alt="Halaman Kriteria" width="" />
-<br><br>
-<img src="https://github.com/user-attachments/assets/54bbaf8f-ed9c-4ffa-9bf7-2bd2dba694ef" alt="Halaman Kriteria" width="" />
+<img src="https://github.com/user-attachments/assets/05d065bd-eb8b-43cc-b743-91bccb7b0b3a" alt="Halaman Kriteria" width="" />
 <br><br>
 
-- ### **Penilaian Page**
+- ### **Assesment Page**
 
 <img src="https://github.com/user-attachments/assets/0c412a06-1c8d-42be-885f-21a9cb0e1acc" alt="Halaman Penilaian" width="" />
 <br><br>
