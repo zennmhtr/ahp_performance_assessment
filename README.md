@@ -91,7 +91,17 @@ Follow the steps below to clone and run the project in your local environment:
 <img src="https://github.com/user-attachments/assets/e546f0eb-2c9b-4dae-a2df-2d1f342bc020" alt="Halaman Metode AHP" width="" />
 <br><br>
 
-- ### **Result Page**
+- ### **Criteria Sub Page**
 
-<img src="https://github.com/user-attachments/assets/db40f871-861c-4a40-bf23-f1cd226b2093" alt="Halaman Hasil Akhir" width="" />
+<img src="https://github.com/user-attachments/assets/7c7b5499-6b91-4e95-88a6-f0aa74eb888d" alt="Halaman Sub Kriteria" width="" />
+<br><br>
+
+- ### **Criteria Sub Page**
+
+<img src="https://github.com/user-attachments/assets/7c7b5499-6b91-4e95-88a6-f0aa74eb888d" alt="Halaman Sub Kriteria" width="" />
+<br><br>
+
+- ### **Criteria Sub Page**
+
+<img src="https://github.com/user-attachments/assets/7c7b5499-6b91-4e95-88a6-f0aa74eb888d" alt="Halaman Sub Kriteria" width="" />
 <br><br>
